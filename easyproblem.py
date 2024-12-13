@@ -4,7 +4,7 @@ def last_char_of_string(s):
     else:
         return ""  # Return an empty string for empty input
 
-if name:= "__main_":
+if __name__ == "__main_":
     a_string = (input("Enter a string: "))
     last_char = last_char_of_string(a_string)
     if last_char:
