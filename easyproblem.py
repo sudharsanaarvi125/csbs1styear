@@ -3,7 +3,6 @@ def last_char_of_string(s):
         return s[-1]
     else:
         return ""
-
 if __name__ == "__main__":
     a_string = input("Enter a string: ")
     last_char = last_char_of_string(a_string)
