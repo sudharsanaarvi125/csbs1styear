@@ -9,4 +9,4 @@ if __name__ == "__main__":
     if last_char:
       print("The last character of the string is:",last_char)
     else:
-      print("The string is empty.")
+      print("The string is empty ! ") 
